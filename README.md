@@ -1,7 +1,7 @@
-# Portfolio Website 
+# Health Management System Web Application
 
 
-## Designer: **Wayne Mwandi**
+## Developer: **Wayne Mwandi**
 <br>
 
 **GitHub** handle username: **[waynemwandi](https://github.com/waynemwandi)**
